@@ -1,0 +1,6 @@
+format: jb-book
+root: intro
+chapters:
+- file: web-pages/index
+  sections:
+  - file: web-pages/personal-website

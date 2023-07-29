@@ -1,0 +1,15 @@
+title: Web Scraping
+author: Isaac FEI
+logo: resources/status404.jpg
+
+html:
+  favicon: resources/web.ico
+  use_issues_button: true
+  use_repository_button: true
+
+repository:
+  branch: master
+  url: https://github.com/Isaac-Fate/web-scraping
+
+execute:
+  execute_notebooks: auto
